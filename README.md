@@ -5,7 +5,8 @@ as I learn new things related to both personal and professional projects.
 
 This repo was inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 
-1 TIL & Counting
+2 TILs & Counting
+
 ---
 
 ### Categories
@@ -15,9 +16,10 @@ This repo was inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 
 ---
 
-#### Slack
+### Slack
 
+- [Post A Message To A Channel](slack/post_message_to_channel.md)
 
-#### Twilio
+### Twilio
 
 - [Receive An Incoming SMS](twilio/receive_incoming_sms.md)
