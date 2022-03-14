@@ -5,16 +5,21 @@ as I learn new things related to both personal and professional projects.
 
 This repo was inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 
-2 TILs & Counting
+3 TILs & Counting
 
 ---
 
 ### Categories
 
+* [Git](#git)
 * [Slack](#slack)
 * [Twilio](#twilio)
 
 ---
+
+### Git
+
+- [Command Line Rebase Branch On Main](git/cli_rebase_main.md)
 
 ### Slack
 
