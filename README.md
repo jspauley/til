@@ -5,7 +5,7 @@ as I learn new things related to both personal and professional projects.
 
 This repo was inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 
-4 TILs & Counting
+6 TILs & Counting
 
 ---
 
@@ -20,6 +20,8 @@ This repo was inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 
 ### Git
 
+- [Changing Multiple Commits](git/change_multiple_commits.md)
+- [Changing The Last Commit](git/change_last_commit.md)
 - [Command Line Rebase Branch On Main](git/cli_rebase_main.md)
 
 ### Slack
