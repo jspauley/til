@@ -5,16 +5,18 @@ as I learn new things related to both personal and professional projects.
 
 This repo was inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 
-6 TILs & Counting
+8 TILs & Counting
 
 ---
 
 ### Categories
 
 * [Git](#git)
+* [Pi-hole](#Pi-Hole)
 * [Slack](#slack)
 * [SQL](#sql)
 * [Twilio](#twilio)
+* [Ubuntu](#ubuntu)
 
 ---
 
@@ -23,6 +25,10 @@ This repo was inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 - [Changing Multiple Commits](git/change_multiple_commits.md)
 - [Changing The Last Commit](git/change_last_commit.md)
 - [Command Line Rebase Branch On Main](git/cli_rebase_main.md)
+
+### Pi-hole
+
+- [Updating Pi-hole](pi-hole/updating_pi_hole.md)
 
 ### Slack
 
@@ -35,3 +41,7 @@ This repo was inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 ### Twilio
 
 - [Receive An Incoming SMS](twilio/receive_incoming_sms.md)
+
+### Ubuntu
+
+- [Command Line Update](ubuntu/command_line_update.md)
