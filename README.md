@@ -5,7 +5,7 @@ as I learn new things related to both personal and professional projects.
 
 This repo was inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 
-8 TILs & Counting
+9 TILs & Counting
 
 ---
 
@@ -44,4 +44,5 @@ This repo was inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 
 ### Ubuntu
 
+- [Command Line Reboot](ubuntu/command_line_reboot.md)
 - [Command Line Update](ubuntu/command_line_update.md)
