@@ -5,7 +5,7 @@ as I learn new things related to both personal and professional projects.
 
 This repo was inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 
-9 TILs & Counting
+10 TILs & Counting
 
 ---
 
@@ -28,6 +28,7 @@ This repo was inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 
 ### Pi-hole
 
+- [Allow iCloud Private Relay](pi-hole/allow_icloud_private_relay.md)
 - [Updating Pi-hole](pi-hole/updating_pi_hole.md)
 
 ### Slack
