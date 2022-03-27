@@ -5,7 +5,7 @@ as I learn new things related to both personal and professional projects.
 
 This repo was inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 
-11 TILs & Counting
+12 TILs & Counting
 
 ---
 
@@ -38,6 +38,7 @@ This repo was inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 ### SQL
 
 - [ISO 8601 YYY-MM-DD Date Format](sql/iso_8601_date_format.md)
+- [Show Columns And Data Types](sql/show_columns_and_data_types.md)
 
 ### Twilio
 
