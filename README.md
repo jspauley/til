@@ -5,7 +5,7 @@ as I learn new things related to both personal and professional projects.
 
 This repo was inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 
-12 TILs & Counting
+13 TILs & Counting
 
 ---
 
@@ -25,6 +25,7 @@ This repo was inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 - [Changing Multiple Commits](git/change_multiple_commits.md)
 - [Changing The Last Commit](git/change_last_commit.md)
 - [Command Line Rebase Branch On Main](git/cli_rebase_main.md)
+- [Update An Expired Access Token](git/update_access_token.md)
 
 ### Pi-hole
 
