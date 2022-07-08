@@ -18,7 +18,7 @@ ALTER COLUMN column_name TYPE new_data_type;
 If you want to make a previously nullable column non-nullable then run:
 
 ```sql
-ALTER TABLE table_name ALTER COLUMN column_name NOT NULL;
+ALTER TABLE table_name ALTER COLUMN column_name SET NOT NULL;
 ```
 
 Or if you want to remove the nullable restriction, run:
