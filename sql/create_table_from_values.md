@@ -10,7 +10,7 @@ FROM (
   -- Manually Generated List
   (1,     'Name One',     100,    'Thing One'),
   (2,     'Name Two',     200,    'Thing Two'),
-  (3,     'Name Three',   300,    'Thing 3')
+  (3,     'Name Three',   300,    'Thing Three')
 ) AS t (id, name, value_id, value_name)
 
 ```
