@@ -1,6 +1,6 @@
-# Show Columns With Data Types In Presto
+# Show Columns With Data Types In Trino
 
-To list the columns in a table along with their data types in Presto, run the following command:
+To list the columns in a table along with their data types in Trino, run the following command:
 
 ```sql
 SHOW COLUMNS FROM table
