@@ -1,8 +1,6 @@
 # Post A Message To A Channel
 
-Many Slack Bots are only responding to a certain event happening (a mention,
-a /command, etc). This is a simple example of how to post a message from an
-app to a Slack channel in Python using the Slack Bolt Client and Block Kit.
+Many Slack Bots are only responding to a certain event happening (a mention, a /command, etc). This is a simple example of how to post a message from an app to a Slack channel in Python using the Slack Bolt Client and Block Kit.
 
 ```python
 channel_id = 'SLACK_CHANNEL_ID'

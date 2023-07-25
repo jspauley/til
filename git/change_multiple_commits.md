@@ -5,7 +5,7 @@ there are times when the solution involves editing or squashing multiple commits
 This can be accomplished with an interactive rebase by running the following
 command, where the number is how many commits back in time you'd like to edit:
 
-```
+```bash
 git rebase -i HEAD~3
 ```
 
@@ -19,7 +19,7 @@ Once that's done you'll be present with a list of the commit messages, where you
 similarly are giving the option of which to keep by commenting out the unneeded lines.
 That's it! Once finished the branch can be pushed to GitHub by running:
 
-```
+```bash
 git push origin your_branch_name
 ```
 

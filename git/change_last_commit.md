@@ -5,7 +5,7 @@ new one, particularly in some high velocity repositories where the goal is to
 have one commit per pull request. In such cases, a single commit can be edited
 any time we have new changes using the following command:
 
-```
+```bash
 git commit --amend
 ```
 
@@ -15,13 +15,13 @@ commit.
 If you want to keep the same commit message, but just update the code changes,
 you can use the following command:
 
-```
+```bash
 git commit --amend --no-edit
 ```
 
 In either case, a force push of the branch will be required if this commit was
 previously pushed to GitHub. This can be done by running:
 
-```
+```bash
 git push origin your_branch_name -f
 ```

@@ -11,12 +11,12 @@ to login again or provide your personal access token.
 
 ### macOS
 
-```
+```bash
 git config --global credential.helper osxkeychain
 ```
 
 ### Windows
 
-```
+```bash
 git config --global credential.helper wincred
 ```

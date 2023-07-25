@@ -1,8 +1,6 @@
 # Receive An Incoming SMS From Twilio
 
-Twilio expects a reponse when an SMS is sent via an HTTP POST request. Using Flask to create our API, 
-you can receive an SMS, extract the sender phone number, the contents of the text, and return a `200`
-status with the following:
+Twilio expects a reponse when an SMS is sent via an HTTP POST request. Using Flask to create our API, you can receive an SMS, extract the sender phone number, the contents of the text, and return a `200` status with the following:
 
 ```python
 @api.post('/twilio/sms')

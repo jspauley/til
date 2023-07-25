@@ -1,7 +1,6 @@
 # Update Table In Postgres
 
-If you have an existing table that you need to add a column to, you can run, 
-swapping in your column names, types, and restrictions as needed:
+If you have an existing table that you need to add a column to, you can run, swapping in your column names, types, and restrictions as needed:
 
 ```sql
 ALTER TABLE table_name

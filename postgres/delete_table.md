@@ -1,7 +1,6 @@
 # Delete Table In Postgres
 
-If you've previously created a table in Postgres that now needs to be deleted,
-it's as simple as running:
+If you've previously created a table in Postgres that now needs to be deleted, it's as simple as running:
 
 ```sql
 DROP TABLE table_name;
