@@ -1,4 +1,4 @@
-# View Journal System Logs
+# View System Logs
 
 In Linux, `systemd` does an excellent job logging and managing all kernal and user level services. These centralized logs can be very helpful in debugging services and understanding what the system is doing. 
 

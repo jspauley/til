@@ -29,7 +29,7 @@ This repo was inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 - [Command Line Rebase Branch On Main](git/cli_rebase_main.md)
 - [Update An Expired Access Token](git/update_access_token.md)
 
-### GMQTT
+### MQTT
 
 - [Configure Firewall To Allow Moquitto Broker](mqtt/mosquitto_broker_allow_firewall.md)
 - [Setup Mosquitto Broker](mqtt/mosquitto_broker_setup.md)

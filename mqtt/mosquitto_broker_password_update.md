@@ -1,4 +1,4 @@
-# Update Ubuntu Server Via Command Line
+# Update Mosquitto Broker Password
 
 Updating Ubuntu Server via command line r
 
