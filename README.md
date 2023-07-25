@@ -5,7 +5,7 @@ as I learn new things related to both personal and professional projects.
 
 This repo was inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 
-22 TILs & Counting
+24 TILs & Counting
 
 ---
 
@@ -67,3 +67,5 @@ This repo was inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 - [Command Line Reboot](ubuntu/command_line_reboot.md)
 - [Command Line Shut Down](ubuntu/command_line_shutdown.md)
 - [Command Line Update](ubuntu/command_line_update.md)
+- [Service Auto-Start](ubuntu/service_auto_start.md)
+- [View System Logs](ubuntu/view_system_logs.md)
