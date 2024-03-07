@@ -21,5 +21,5 @@ sudo apt dist-upgrade
 And finally, if there is a new version of the OS available, run the following command after running all of the above commands:
 
 ```bash
-sudo apt do-release-upgrade
+sudo do-release-upgrade
 ```
