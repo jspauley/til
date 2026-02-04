@@ -5,7 +5,7 @@ as I learn new things related to both personal and professional projects.
 
 This repo was inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 
-26 TILs & Counting
+28 TILs & Counting
 
 ---
 
@@ -75,4 +75,4 @@ This repo was inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 
 ### Rust
 
-- [Using Clippy to Lint Rust Code](archive/rust/using_clippy_to_lint_rust_code.md)
+- [Use Clippy to Lint Rust Code](archive/rust/use_clippy_to_lint_rust_code.md)
